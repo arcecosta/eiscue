@@ -1,0 +1,24 @@
+{
+  "name": "eiscue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "got": "^11.8.2",
+    "megadb": "^3.4.0",
+    "moment": "^2.29.1",
+    "mongoose": "^6.2.2",
+    "node": "^16.9.1",
+    "node.js": "^0.0.1-security",
+    "yt-channel-info": "^2.2.0"
+  }
+}
